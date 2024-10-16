@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is my readme, there are many like it, but this one is mine. 
+
 <!--
 **mikehrod2016/mikehrod2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
