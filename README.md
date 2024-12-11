@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-US Navy Cryptologic Warfare Technician(CWT1) / Cryptologic Technician of Networks(CTN1). Threat Intelligence / Cyber Security Network Analyst for 8 years. TS/SCI clearance w/ Poly. 
+US Navy Cryptologic Warfare Technician(CWT1) / Cryptologic Technician of Networks(CTN1). Threat Intelligence / Cyber Security Network Analyst for 8 years. Continuing the Cyber Security profession and seeing where it takes me. 
 
 Education:
-Associates Degree in Computer Studies
-US Navy Information Warfare Training Command (JCAC & ICC)
+Associates Degree in Computer Studies & US Navy Information Warfare Training Command (JCAC & ICC)
 
 Certified:
 - SANS GCIH
@@ -15,9 +14,9 @@ Certified:
 
 Check out my portfolio here: https://github.com/mikehrod2016/Cyber_Defense_Musings/tree/main
 
-Contact: mhrodvvv@protonmail.com
-LinkedIn: www.linkedin.com/in/michael-rodriguez-b00765129
-Portsmouth, Virginia
+Contacts: 
+mhrodvvv@protonmail.com
+www.linkedin.com/in/michael-rodriguez-b00765129
 <!--
 **mikehrod2016/mikehrod2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
