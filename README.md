@@ -7,7 +7,7 @@ Associates Degree in Computer Studies
 US Navy Information Warfare Training Command (JCAC & ICC)
 
 Certified:
- Markup : - Bullet listSANS GCIH, 
+- SANS GCIH
 - Comptia Sec+
 - Pentest+
 - CySA+
